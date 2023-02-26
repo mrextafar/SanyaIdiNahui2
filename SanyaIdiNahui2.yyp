@@ -1,0 +1,45 @@
+{
+  "resourceType": "GMProject",
+  "resourceVersion": "1.6",
+  "name": "SanyaIdiNahui2",
+  "AudioGroups": [
+    {"resourceType":"GMAudioGroup","resourceVersion":"1.3","name":"audiogroup_default","targets":-1,},
+  ],
+  "configs": {
+    "children": [],
+    "name": "Default",
+  },
+  "defaultScriptType": 0,
+  "Folders": [
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Спрайты","folderPath":"folders/Спрайты.yy","order":0,},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Наборы плиток","folderPath":"folders/Наборы плиток.yy","order":0,},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Звуки","folderPath":"folders/Звуки.yy","order":0,},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Пути","folderPath":"folders/Пути.yy","order":0,},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Скрипты","folderPath":"folders/Скрипты.yy","order":0,},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Шейдеры","folderPath":"folders/Шейдеры.yy","order":0,},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Шрифты","folderPath":"folders/Шрифты.yy","order":0,},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Временные шкалы","folderPath":"folders/Временные шкалы.yy","order":0,},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Объекты","folderPath":"folders/Объекты.yy","order":0,},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Румы","folderPath":"folders/Румы.yy","order":0,},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Последовательности","folderPath":"folders/Последовательности.yy","order":0,},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Кривые анимации","folderPath":"folders/Кривые анимации.yy","order":0,},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Примечания","folderPath":"folders/Примечания.yy","order":0,},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Расширения","folderPath":"folders/Расширения.yy","order":0,},
+  ],
+  "IncludedFiles": [],
+  "isEcma": false,
+  "MetaData": {
+    "IDEVersion": "2023.1.0.58",
+  },
+  "resources": [
+    {"id":{"name":"oSanya","path":"objects/oSanya/oSanya.yy",},"order":0,},
+    {"id":{"name":"sSanya","path":"sprites/sSanya/sSanya.yy",},"order":0,},
+    {"id":{"name":"Рум1","path":"rooms/Рум1/Рум1.yy",},"order":0,},
+  ],
+  "RoomOrderNodes": [
+    {"roomId":{"name":"Рум1","path":"rooms/Рум1/Рум1.yy",},},
+  ],
+  "TextureGroups": [
+    {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
+  ],
+}
